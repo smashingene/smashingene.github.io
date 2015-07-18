@@ -1,0 +1,66 @@
+a {
+color: orange;
+font-weight: bold;
+}
+img {
+border: 1px solid red;
+}
+
+.description {
+	color: blue;
+}
+
+header {
+background: grey;
+color: #FFC0CB;
+border-color: rgb(255, 192, 203);
+background: url(images/background.jpg);
+background-attachment: fixed;
+}
+
+#about {
+background-color: red;
+}
+.about {
+background-color: gray;
+color: green;
+}
+
+.links {
+background-color: black;
+color: white;
+}
+
+.links h2 {
+	background-color: orange;
+}
+
+.contact {
+padding-top: 2px;
+padding-bottom: 2px;	
+text-align: center;
+color: #FFF;
+height:130px;
+background: url("images/dark_embroidery.png");
+}
+
+
+.contact img {
+width: 30px;
+margin: 10px;
+border-radius: 50%;
+}
+
+.contact img:hover {
+opacity: 0.5;
+}
+
+ul.websites {
+padding: 0;
+}
+ul.websites li {
+list-style: none;
+display: inline-block;
+}
+
+
